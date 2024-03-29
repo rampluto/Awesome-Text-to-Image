@@ -77,7 +77,7 @@ If you find this paper and repo helpful for your research, please cite it below:
   * - [ ] [🛫Applications🛫](#head-app)
   * - [ ] [Text+Image/Video → Image/Video](#head-ti2i)
   * - [ ] [Text+Layout → Image](#head-tl2i)
-  * - [ ] [Audio+Text+Image/Video → Image/Video](#head-ati2i)
+  * - [ ] [Others+Text+Image/Video → Image/Video](#head-oti2i)
   * - [ ] [Layout/Mask → Image](#head-l2i)
   * - [ ] [Label-set → Semantic maps](#head-l2s)
   * - [ ] [Speech → Image](#head-s2i)
@@ -439,9 +439,11 @@ A number of studies have been conducted on text-to-image synthesis techniques th
 
 [<u><🎯Back to Top></u>](#head-content)
 
-   * <span id="head-ati2i"> **Audio+Text+Image/Video → Image/Video** </span> 
+   * <span id="head-oti2i"> **Others+Text+Image/Video → Image/Video** </span> 
+       * (arXiv preprint 2024) [💬Skeleton/Sketch] **ECNet: Effective Controllable Text-to-Image Diffusion Models**, Sicheng Li et al. [[Paper](https://arxiv.org/abs/2403.18417)]
+       * (ICCV 2023) [💬Skeleton] **HumanSD: A Native Skeleton-Guided Diffusion Model for Human Image Generation**, Xuan Ju et al. [[Paper](https://arxiv.org/abs/2304.04269)] [[Project](https://idea-research.github.io/HumanSD/)] [[Code](https://github.com/IDEA-Research/HumanSD)] [[Video](https://drive.google.com/file/d/1Djc2uJS5fmKnKeBnL34FnAAm3YSH20Bb/view)]
        * (arXiv preprint 2023) [💬Sound+Speech→Robotic Painting] **Robot Synesthesia: A Sound and Emotion Guided AI Painter**, Vihaan Misra et al. [[Paper](https://arxiv.org/abs/2302.04850)]
-       * (arXiv preprint 2022) **Robust Sound-Guided Image Manipulation**, Seung Hyun Lee et al. [[Paper](https://arxiv.org/abs/2208.14114)]
+       * (arXiv preprint 2022) [💬Sound] **Robust Sound-Guided Image Manipulation**, Seung Hyun Lee et al. [[Paper](https://arxiv.org/abs/2208.14114)]
 
 [<u><🎯Back to Top></u>](#head-content)
        
