@@ -241,6 +241,7 @@ A number of studies have been conducted on text-to-image synthesis techniques th
 
 ## <span id="head6"> *6. Other Related Works* </span>
    * <span id="head-pe"> **📝Prompt Engineering📝** </span> 
+       * (arXiv preprint 2024) **Automated Black-box Prompt Engineering for Personalized Text-to-Image Generation**, Yutong He et al. [[Paper](https://arxiv.org/abs/2403.191039)] 
        * (arXiv preprint 2023) [💬Optimizing Prompts] **NeuroPrompts: An Adaptive Framework to Optimize Prompts for Text-to-Image Generation**, Shachar Rosenman et al. [[Paper](https://arxiv.org/abs/2311.12229)] [[Video Demo](https://www.youtube.com/watch?v=Cmca_RWYn2g)] 
        * (arXiv preprint 2022) [💬Optimizing Prompts] **Optimizing Prompts for Text-to-Image Generation**, Yaru Hao et al. [[Paper](https://arxiv.org/abs/2212.09611)] [[Code](https://github.com/microsoft/LMOps)] [[Hugging Face](https://huggingface.co/spaces/microsoft/Promptist)] 
        * (arXiv preprint 2022) [💬Aesthetic Image Generation] **Best Prompts for Text-to-Image Models and How to Find Them**, Nikita Pavlichenko et al.  [[Paper](https://arxiv.org/abs/2209.11711)] 
