@@ -93,7 +93,7 @@ If you find this paper and repo helpful for your research, please cite it below:
 
  ## <span id="head1"> *Description* </span>
 
-* In the last few decades, the fields of Computer Vision (CV) and Natural Language Processing (NLP) have been made several major technological breakthroughs in deep learning research. Recently, researchers appear interested in combining semantic information and visual information in these traditionally independent fields. 
+* In the last few decades, the fields of Computer Vision (CV) and Natural Language Processing (NLP) have been made several major technological breakthroughs in deep learning research. Recently, researchers interested in combining semantic information and visual information in these traditionally independent fields. 
 A number of studies have been conducted on text-to-image synthesis techniques that transfer input textual descriptions (keywords or sentences) into realistic images.
 
 * Papers, codes, and datasets for the text-to-image task are available here.
@@ -104,6 +104,7 @@ A number of studies have been conducted on text-to-image synthesis techniques th
 ## <span id="head5"> *Paper With Code* </span>
 
 * <span id="head-t2f"> **Text to Face👨🏻🧒👧🏼🧓🏽**  </span> 
+    * (CVPR 2024) **CosmicMan: A Text-to-Image Foundation Model for Humans**, Shikai Li et al. [[Paper](https://arxiv.org/abs/2404.01294)] [[Project](https://cosmicman-cvpr2024.github.io/)] 
     * (arXiv preprint 2024) **Fast Text-to-3D-Aware Face Generation and Manipulation via Direct Cross-modal Mapping and Geometric Regularization**, Jinlu Zhang et al. [[Paper](https://arxiv.org/abs/2403.06702)] [[Code](https://github.com/Aria-Zhangjl/E3-FaceNet)]    
     * (IJACSA 2023) **Mukh-Oboyob: Stable Diffusion and BanglaBERT enhanced Bangla Text-to-Face Synthesis**, Aloke Kumar Saha et al. [[Paper](https://thesai.org/Publications/ViewPaper?Volume=14&Issue=11&Code=IJACSA&SerialNo=142)] [[Code](https://github.com/Codernob/Mukh-Oboyob)]
     * (SIGGRAPH 2023) [💬 3D] **DreamFace: Progressive Generation of Animatable 3D Faces under Text Guidance**, Longwen Zhang et al. [[Paper](https://arxiv.org/abs/2304.03117)] [[Project](https://sites.google.com/view/dreamface)] [[HuggingFace](https://huggingface.co/spaces/DEEMOSTECH/ChatAvatar)]
