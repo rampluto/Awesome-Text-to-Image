@@ -159,6 +159,7 @@ A number of studies have been conducted on text-to-image synthesis techniques th
 [<u><🎯Back to Top></u>](#head-content)
 
 * <span id="head-2024"> **2024**  </span> 
+     * (arXiv preprint 2024) **CoMat: Aligning Text-to-Image Diffusion Model with Image-to-Text Concept Matching**, Dongzhi Jiang et al.  [[Paper](https://arxiv.org/abs/2404.03653)] [[Project](https://caraj7.github.io/comat/)] [[Code](https://github.com/CaraJ7/CoMat)] 
      * (arXiv preprint 2024) **TextCraftor: Your Text Encoder Can be Image Quality Controller**, Yanyu Li et al.  [[Paper](https://arxiv.org/abs/2403.18978)] 
      * (CVPR 2024) **ECLIPSE: A Resource-Efficient Text-to-Image Prior for Image Generations**, Maitreya Patel et al.  [[Paper](https://arxiv.org/abs/2312.04655)] [[Project](https://eclipse-t2i.vercel.app/)] [[Code](https://github.com/eclipse-t2i/eclipse-inference)] [[Hugging Face](https://huggingface.co/spaces/ECLIPSE-Community/ECLIPSE-Kandinsky-v2.2)]
      * (arXiv preprint 2024) **SELMA: Learning and Merging Skill-Specific Text-to-Image Experts with Auto-Generated Data**, Jialu Li et al.  [[Paper](https://arxiv.org/abs/2403.06952)] [[Project](https://selma-t2i.github.io/)] [[Code](https://github.com/jialuli-luka/SELMA)]
