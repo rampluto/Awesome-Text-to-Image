@@ -180,6 +180,7 @@ A number of studies have been conducted on text-to-image synthesis techniques th
 [<u><🎯Back to Top></u>](#head-content)
 
 * <span id="head-2023"> **2023**  </span>
+     * (arXiv preprint 2023) **CoDi-2: In-Context, Interleaved, and Interactive Any-to-Any Generation**, Zineng Tang et al. [[Paper](https://arxiv.org/abs/2311.18775)] [[Project](https://codi-2.github.io/)] [[Code](https://github.com/microsoft/i-Code/tree/main/CoDi-2)] 
      * (arXiv preprint 2023) **DiffBlender: Scalable and Composable Multimodal Text-to-Image Diffusion Models**, Sungnyun Kim et al. [[Paper](https://arxiv.org/abs/2305.15194)] [[Code](https://github.com/sungnyun/diffblender)] [[Project](https://sungnyun.github.io/diffblender/)] 
      * (arXiv preprint 2023) **ElasticDiffusion: Training-free Arbitrary Size Image Generation**, Moayed Haji-Ali et al.  [[Paper](https://arxiv.org/abs/2311.18822)] [[Project](https://elasticdiffusion.github.io/)] [[Code](https://github.com/moayedhajiali/elasticdiffusion-official)] [[Demo](https://replicate.com/moayedhajiali/elasticdiffusion)]
      * (ICCV 2023) **BoxDiff: Text-to-Image Synthesis with Training-Free Box-Constrained Diffusion**, Jinheng Xie et al. [[Paper](https://arxiv.org/abs/2307.10816)] [[Code](https://github.com/showlab/BoxDiff)] 
@@ -261,7 +262,7 @@ A number of studies have been conducted on text-to-image synthesis techniques th
          * 📚 Text → Image, Text → Video
        * (arXiv preprint 2024) **TMT: Tri-Modal Translation between Speech, Image, and Text by Processing Different Modalities as Different Languages**, Minsu Kim et al. [[Paper](https://arxiv.org/abs/2402.16021v1)] 
          * 📚 Image → Text, Image → Speech, Text → Image, Speech → Image, Speech → Text, Text → Speech
-       * ⭐⭐(arXiv preprint 2023) **Any-to-Any Generation via Composable Diffusion**, Zineng Tang et al. [[Paper](https://arxiv.org/abs/2305.11846)] [[Project](https://codi-gen.github.io/)] [[Code](https://github.com/microsoft/i-Code/tree/main/i-Code-V3)] 
+       * ⭐⭐(NeurIPS 2023) **CoDi: Any-to-Any Generation via Composable Diffusion**, Zineng Tang et al. [[Paper](https://arxiv.org/abs/2305.11846)] [[Project](https://codi-gen.github.io/)] [[Code](https://github.com/microsoft/i-Code/tree/main/i-Code-V3)] 
          * 📚[Single-to-Single Generation] Text → Image, Audio → Image, Image → Video, Image → Audio, Audio → Text, Image → Text
          * 📚[Multi-Outputs Joint Generation] Text → Video + Audio, Text → Text + Audio + Image, Text + Image → Text + Image
          * 📚[Multiple Conditioning] Text + Audio → Image, Text + Image → Image, Text + Audio + Image → Image, Text + Audio → Video, Text + Image → Video, Video + Audio → Text, Image + Audio → Audio, Text + Image → Audio
