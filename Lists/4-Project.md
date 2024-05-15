@@ -1,5 +1,7 @@
 # <p align=center>🔮Project</p>
 
+* **Imagen 3**. [[Website](https://deepmind.google/technologies/imagen-3/)] 
+    * > Google's highest quality text-to-image model, capable of generating images with even better detail, richer lighting and fewer distracting artifacts than previous models.
 * **Lore Machine**. [[Website](https://www.loremachine.world/login)] 
     * > An Al-collaborative story visualization system that transforms story text into multimedia.
 * ⭐⭐**Stable Cascade**. [[Website](https://stability.ai/news/introducing-stable-cascade)] [[Github](https://github.com/Stability-AI/StableCascade)] [[Hugging Face](https://huggingface.co/stabilityai/stable-cascade)] [[Unofficial Demo](https://huggingface.co/spaces/multimodalart/stable-cascade)]
