@@ -164,7 +164,10 @@ A number of studies have been conducted on text-to-image synthesis techniques th
 [<u><🎯Back to Top></u>](#head-content)
 
 * <span id="head-2024"> **2024**  </span> 
-     * (CVPR 2024) **Ranni: Taming Text-to-Image Diffusion for Accurate Instruction Following**, Yutong Feng et al.  [[Paper](https://arxiv.org/abs/2311.17002)] [[Project](https://ranni-t2i.github.io/Ranni/)] [[Code](https://github.com/ali-vilab/Ranni)] 
+     * (arXiv preprint 2024) [💬 Generation and Editing] **MultiEdits: Simultaneous Multi-Aspect Editing with Text-to-Image Diffusion Models**, Mingzhen Huang et al. [[Paper](https://arxiv.org/abs/2406.00985)] [[Project](https://mingzhenhuang.com/projects/MultiEdits.html)]
+     * (arXiv preprint 2024) **AutoStudio: Crafting Consistent Subjects in Multi-turn Interactive Image Generation**, Junhao Cheng et al. [[Paper](https://arxiv.org/abs/2406.01388)] [[Project](https://howe183.github.io/AutoStudio.io/)] [[Code](https://github.com/donahowe/AutoStudio)] 
+     * (arXiv preprint 2024) **TheaterGen: Character Management with LLM for Consistent Multi-turn Image Generation**, Junhao Cheng et al. [[Paper](https://arxiv.org/abs/2404.18919)] [[Project](https://howe140.github.io/theatergen.io/)] [[Code](https://github.com/donahowe/Theatergen)] 
+     * (CVPR 2024) **Ranni: Taming Text-to-Image Diffusion for Accurate Instruction Following**, Yutong Feng et al. [[Paper](https://arxiv.org/abs/2311.17002)] [[Project](https://ranni-t2i.github.io/Ranni/)] [[Code](https://github.com/ali-vilab/Ranni)] 
      * (arXiv preprint 2024) **CoMat: Aligning Text-to-Image Diffusion Model with Image-to-Text Concept Matching**, Dongzhi Jiang et al.  [[Paper](https://arxiv.org/abs/2404.03653)] [[Project](https://caraj7.github.io/comat/)] [[Code](https://github.com/CaraJ7/CoMat)] 
      * (arXiv preprint 2024) **TextCraftor: Your Text Encoder Can be Image Quality Controller**, Yanyu Li et al.  [[Paper](https://arxiv.org/abs/2403.18978)] 
      * (CVPR 2024) **ECLIPSE: A Resource-Efficient Text-to-Image Prior for Image Generations**, Maitreya Patel et al.  [[Paper](https://arxiv.org/abs/2312.04655)] [[Project](https://eclipse-t2i.vercel.app/)] [[Code](https://github.com/eclipse-t2i/eclipse-inference)] [[Hugging Face](https://huggingface.co/spaces/ECLIPSE-Community/ECLIPSE-Kandinsky-v2.2)]
