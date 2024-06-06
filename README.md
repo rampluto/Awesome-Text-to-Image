@@ -341,6 +341,7 @@ A number of studies have been conducted on text-to-image synthesis techniques th
 [<u><🎯Back to Top></u>](#head-content)
 
    * <span id="head-ti2i"> **Text+Image/Video → Image/Video** </span> 
+       * (CVPR 2024) **SmartEdit: Exploring Complex Instruction-based Image Editing with Multimodal Large Language Models**, Yuzhou Huang et al. [[Paper](https://arxiv.org/abs/2312.06739)] [[Project](https://yuzhou914.github.io/SmartEdit/)] [[Code](https://github.com/TencentARC/SmartEdit)]
        * (arXiv preprint 2024) **MM-Diff: High-Fidelity Image Personalization via Multi-Modal Condition Integration**, Zhichao Wei et al. [[Paper](https://arxiv.org/abs/2403.15059)] 
        * (CVPR 2024) **Instruct-Imagen: Image Generation with Multi-modal Instruction**, Hexiang Hu et al. [[Paper](https://arxiv.org/abs/2401.01952)] [[Project](https://instruct-imagen.github.io/)]
        * (arXiv preprint 2024) [💬NERF] **InseRF: Text-Driven Generative Object Insertion in Neural 3D Scenes**, Mohamad Shahbazi et al. [[Paper](https://arxiv.org/abs/2401.05335)] [[Project](https://mohamad-shahbazi.github.io/inserf/)]
