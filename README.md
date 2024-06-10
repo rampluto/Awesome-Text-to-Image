@@ -265,6 +265,8 @@ A number of studies have been conducted on text-to-image synthesis techniques th
 [<u><🎯Back to Top></u>](#head-content)
 
    * <span id="head-mm"> **⭐Multimodality⭐** </span> 
+       * (arXiv preprint 2024) **Lumina-T2X: Transforming Text into Any Modality, Resolution, and Duration via Flow-based Large Diffusion Transformers**, Peng Gao et al. [[Paper](https://arxiv.org/abs/2405.05945)] [[Code](https://github.com/Alpha-VLLM/Lumina-T2X)] 
+         * 📚 Text → Image/Video/Audio/3D/Music
        * (ICLR 2024) **Cross-Modal Contextualized Diffusion Models for Text-Guided Visual Generation and Editing**, Ling Yang et al. [[Paper](https://arxiv.org/abs/2402.16627v1)] [[Code](https://github.com/YangLing0818/ContextDiff?tab=readme-ov-file)]
          * 📚 Text → Image, Text → Video
        * (arXiv preprint 2024) **TMT: Tri-Modal Translation between Speech, Image, and Text by Processing Different Modalities as Different Languages**, Minsu Kim et al. [[Paper](https://arxiv.org/abs/2402.16021v1)] 
