@@ -1,10 +1,12 @@
 # <p align=center>🔮Project</p>
 
+* ⭐⭐**Luma AI**. [[Website](https://lumalabs.ai/dream-machine)] 
+    * > Dream Machine is an AI model that makes high quality, realistic videos fast from text and images. It is a highly scalable and efficient transformer model trained directly on videos making it capable of generating physically accurate, consistent and eventful shots. 
 * **Imagen 3**. [[Website](https://deepmind.google/technologies/imagen-3/)] 
     * > Google's highest quality text-to-image model, capable of generating images with even better detail, richer lighting and fewer distracting artifacts than previous models.
 * **Lore Machine**. [[Website](https://www.loremachine.world/login)] 
     * > An Al-collaborative story visualization system that transforms story text into multimedia.
-* ⭐⭐**Stable Cascade**. [[Website](https://stability.ai/news/introducing-stable-cascade)] [[Github](https://github.com/Stability-AI/StableCascade)] [[Hugging Face](https://huggingface.co/stabilityai/stable-cascade)] [[Unofficial Demo](https://huggingface.co/spaces/multimodalart/stable-cascade)]
+* ⭐**Stable Cascade**. [[Website](https://stability.ai/news/introducing-stable-cascade)] [[Github](https://github.com/Stability-AI/StableCascade)] [[Hugging Face](https://huggingface.co/stabilityai/stable-cascade)] [[Unofficial Demo](https://huggingface.co/spaces/multimodalart/stable-cascade)]
     * > A new text-to-image model building upon the [Würstchen](https://openreview.net/pdf?id=gU58d5QeGv) architecture. 
     * > This model is being released under a non-commercial license that permits non-commercial use only.
     * > Stable Cascade is exceptionally easy to train and finetune on consumer hardware thanks to its three-stage approach.
