@@ -451,6 +451,7 @@ A number of studies have been conducted on text-to-image synthesis techniques th
 [<u><🎯Back to Top></u>](#head-content)
 
    * <span id="head-tl2i"> **Text+Layout → Image** </span> 
+       * (CVPR 2024) **Zero-Painter: Training-Free Layout Control for Text-to-Image Synthesis**, Marianna Ohanyan et al. [[Paper](https://arxiv.org/abs/2406.04032)] [[Code](https://github.com/Picsart-AI-Research/Zero-Painter)]
        * (CVPR 2024) **MIGC: Multi-Instance Generation Controller for Text-to-Image Synthesis**, Dewei Zhou et al. [[Paper](https://arxiv.org/abs/2402.05408)] [[Project](https://migcproject.github.io/)] [[Code](https://github.com/limuloo/MIGC)]
        * (ICLR 2024) **Adversarial Supervision Makes Layout-to-Image Diffusion Models Thrive**, Yumeng Li et al. [[Paper](https://arxiv.org/abs/2401.08815)] [[Project](https://yumengli007.github.io/ALDM/)] [[Code](https://github.com/boschresearch/ALDM)]
        * (ICCV 2023) **Dense Text-to-Image Generation with Attention Modulation**, Yunji Kim et al. [[Paper](https://arxiv.org/abs/2308.12964)] [[Code](https://github.com/naver-ai/DenseDiffusion)]
