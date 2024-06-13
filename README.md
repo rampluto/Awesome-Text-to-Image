@@ -265,6 +265,8 @@ A number of studies have been conducted on text-to-image synthesis techniques th
 [<u><🎯Back to Top></u>](#head-content)
 
    * <span id="head-mm"> **⭐Multimodality⭐** </span> 
+       * (arXiv preprint 2024) **Ctrl-X: Controlling Structure and Appearance for Text-To-Image Generation Without Guidance**, Kuan Heng Lin et al. [[Paper](https://arxiv.org/abs/2406.07540)] [[Project](https://genforce.github.io/ctrl-x/)] 
+         * 📚 Structure (natural images, canny maps, normal maps, wireframes, 3D meshes, etc.) + Image → Image, Structure (mask, 3D mesh, canny maps, depth maps, etc.) + Text → Image
        * (arXiv preprint 2024) **Lumina-T2X: Transforming Text into Any Modality, Resolution, and Duration via Flow-based Large Diffusion Transformers**, Peng Gao et al. [[Paper](https://arxiv.org/abs/2405.05945)] [[Code](https://github.com/Alpha-VLLM/Lumina-T2X)] 
          * 📚 Text → Image/Video/Audio/3D/Music
        * (ICLR 2024) **Cross-Modal Contextualized Diffusion Models for Text-Guided Visual Generation and Editing**, Ling Yang et al. [[Paper](https://arxiv.org/abs/2402.16627v1)] [[Code](https://github.com/YangLing0818/ContextDiff?tab=readme-ov-file)]
