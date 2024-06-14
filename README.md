@@ -561,7 +561,6 @@ A number of studies have been conducted on text-to-image synthesis techniques th
    * <span id="head-t2v"> **Text → Video** </span> 
        * 💥💥(OpenAI 2024) **Sora** [[Homepage](https://openai.com/sora)] [[Technical Report](https://openai.com/research/video-generation-models-as-world-simulators)] [[Sora with Audio](https://x.com/elevenlabsio/status/1759240084342059260?s=20)]
        * (ICLR 2024) **ControlVideo: Training-free Controllable Text-to-Video Generation**, Yabo Zhang et al. [[Paper](https://arxiv.org/abs/2305.13077)] [[Code](https://github.com/YBYBZhang/ControlVideo)]
-       * (arXiv preprint 2023) [💬Music Visualization] **Generative Disco: Text-to-Video Generation for Music Visualization**, Vivian Liu et al. [[Paper](https://arxiv.org/abs/2304.08551)] 
        * (arXiv preprint 2024) **MagicVideo-V2: Multi-Stage High-Aesthetic Video Generation**, Weimin Wang et al. [[Paper](https://arxiv.org/abs/2401.04468)] [[Project](https://magicvideov2.github.io/)]
        * (arXiv preprint 2023) **LAVIE: High-Quality Video Generation with Cascaded Latent Diffusion Models**, Yaohui Wang et al. [[Paper](https://arxiv.org/abs/2309.15103)] [[Project](https://vchitect.github.io/LaVie-project/)] [[Code](https://github.com/Vchitect/LaVie)]
        * (arXiv preprint 2023) **Emu Video: Factorizing Text-to-Video Generation by Explicit Image Conditioning**, Rohit Girdhar et al. [[Paper](https://arxiv.org/abs/2311.10709)] [[Project](https://emu-video.metademolab.com/)] 
