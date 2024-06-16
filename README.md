@@ -164,6 +164,7 @@ A number of studies have been conducted on text-to-image synthesis techniques th
 [<u><🎯Back to Top></u>](#head-content)
 
 * <span id="head-2024"> **2024**  </span> 
+     * (CVPR 2024) [💬 Text-to-layout → Text+Layout-to-Image] **Grounded Text-to-Image Synthesis with Attention Refocusing**, Quynh Phung et al. [[Paper](https://arxiv.org/abs/2306.05427)] [[Project](https://attention-refocusing.github.io/)] [[Code](https://github.com/Attention-Refocusing/attention-refocusing)] 
      * (arXiv preprint 2024) **Dimba: Transformer-Mamba Diffusion Models**, Zhengcong Fei et al. [[Paper](https://arxiv.org/abs/2406.01159)]
      * (arXiv preprint 2024) [💬 Generation and Editing] **MultiEdits: Simultaneous Multi-Aspect Editing with Text-to-Image Diffusion Models**, Mingzhen Huang et al. [[Paper](https://arxiv.org/abs/2406.00985)] [[Project](https://mingzhenhuang.com/projects/MultiEdits.html)]
      * (arXiv preprint 2024) **AutoStudio: Crafting Consistent Subjects in Multi-turn Interactive Image Generation**, Junhao Cheng et al. [[Paper](https://arxiv.org/abs/2406.01388)] [[Project](https://howe183.github.io/AutoStudio.io/)] [[Code](https://github.com/donahowe/AutoStudio)] 
