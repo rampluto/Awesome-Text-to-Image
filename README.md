@@ -136,6 +136,8 @@ A number of studies have been conducted on text-to-image synthesis techniques th
 [<u><🎯Back to Top></u>](#head-content)
 
 * <span id="head-si"> **Specific Issues🤔**  </span> 
+    * (arXiv preprint 2024) [💬 Fine-Grained Feedback] **Beyond Thumbs Up/Down: Untangling Challenges of Fine-Grained Feedback for Text-to-Image Generation**, Katherine M. Collins et al.  [[Paper](https://arxiv.org/abs/2406.16807)] 
+    * (CVPR 2024-Best Paper) [💬 Human Feedback] **Rich Human Feedback for Text-to-Image Generation**, Youwei Liang et al.  [[Paper](https://arxiv.org/abs/2312.10240)] 
     * (ICLR 2024) [💬 Unauthorized Data] **DIAGNOSIS: Detecting Unauthorized Data Usages in Text-to-image Diffusion Models**, Zhenting Wang et al.  [[Paper](https://openreview.net/pdf?id=f8S3aLm0Vp)] [[Code](https://github.com/ZhentingWang/DIAGNOSIS)]
     * (CVPR 2024) [💬 Open-set Bias Detection] **OpenBias: Open-set Bias Detection in Text-to-Image Generative Models**, Moreno D'Incà et al.  [[Paper](https://arxiv.org/abs/2404.07990)] 
     * (arXiv preprint 2024) [💬 Spatial Consistency] **Getting it Right: Improving Spatial Consistency in Text-to-Image Models**, Agneet Chatterjee et al.  [[Paper](https://arxiv.org/abs/2404.01197)] [[Project](https://spright-t2i.github.io/)] [[Code](https://github.com/SPRIGHT-T2I/SPRIGHT)] [[Dataset](https://huggingface.co/datasets/SPRIGHT-T2I/spright)]
