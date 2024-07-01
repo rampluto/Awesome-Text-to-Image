@@ -136,6 +136,7 @@ A number of studies have been conducted on text-to-image synthesis techniques th
 [<u><🎯Back to Top></u>](#head-content)
 
 * <span id="head-si"> **Specific Issues🤔**  </span> 
+    * (arXiv preprint 2024) [💬 Gender Bias Alignment] **PopAlign: Population-Level Alignment for Fair Text-to-Image Generation**, Shufan Li et al.  [[Paper](https://arxiv.org/abs/2406.19668)] [[Code](https://github.com/jacklishufan/PopAlignSDXL)]
     * (arXiv preprint 2024) [💬 Fine-Grained Feedback] **Beyond Thumbs Up/Down: Untangling Challenges of Fine-Grained Feedback for Text-to-Image Generation**, Katherine M. Collins et al.  [[Paper](https://arxiv.org/abs/2406.16807)] 
     * (CVPR 2024-Best Paper) [💬 Human Feedback] **Rich Human Feedback for Text-to-Image Generation**, Youwei Liang et al.  [[Paper](https://arxiv.org/abs/2312.10240)] 
     * (ICLR 2024) [💬 Unauthorized Data] **DIAGNOSIS: Detecting Unauthorized Data Usages in Text-to-image Diffusion Models**, Zhenting Wang et al.  [[Paper](https://openreview.net/pdf?id=f8S3aLm0Vp)] [[Code](https://github.com/ZhentingWang/DIAGNOSIS)]
