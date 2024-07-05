@@ -259,6 +259,7 @@ A number of studies have been conducted on text-to-image synthesis techniques th
 
 ## <span id="head6"> *6. Other Related Works* </span>
    * <span id="head-pe"> **📝Prompt Engineering📝** </span> 
+       * (CHI 2024) **PromptCharm: Text-to-Image Generation through Multi-modal Prompting and Refinement**, Zhijie Wang et al. [[Paper](https://arxiv.org/abs/2403.04014)] 
        * (arXiv preprint 2024) **Automated Black-box Prompt Engineering for Personalized Text-to-Image Generation**, Yutong He et al. [[Paper](https://arxiv.org/abs/2403.191039)] 
        * (EMNLP 2023) **BeautifulPrompt: Towards Automatic Prompt Engineering for Text-to-Image Synthesis**, Tingfeng Cao et al. [[Paper](https://arxiv.org/abs/2311.06752)] 
        * (arXiv preprint 2023) [💬Optimizing Prompts] **NeuroPrompts: An Adaptive Framework to Optimize Prompts for Text-to-Image Generation**, Shachar Rosenman et al. [[Paper](https://arxiv.org/abs/2311.12229)] [[Video Demo](https://www.youtube.com/watch?v=Cmca_RWYn2g)] 
