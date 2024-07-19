@@ -6,10 +6,11 @@
   * - [x] [Multi-Modal-CelebA-HQ](#head-mmdata)
   * - [x] [CelebA-Dialog](#head-celebad)
   * - [x] [FFHQ-Text](#head-ffhqtext)
-  * - [x] [CelebAText-HQ](#head-celebatext)
+  * - [x] [CelebAText-HQ](#head-celebAtext)
   * - [x] [DeepFashion-MultiModal](#head-deepfashion)
   * - [x] [ANNA](#head-anna)
   * - [x] [Bento800-Text](#head-bento)
+  * - [x] [FaceCaption-15M](#head-face15m)
   * - [ ] [Others](#head-others)
 
 
@@ -101,6 +102,12 @@
   * **Detailed information (Images & Text Descriptions):**  ⇒ [[Paper](https://dl.acm.org/doi/10.1145/3552485.3554935)] [[Website](https://github.com/Yutong-Zhou-cv/Bento800_Dataset)] [[Download](https://drive.google.com/drive/folders/1_VvAbIzeuVew4fa98CcE11mB9SoAI3q-?usp=sharing)]
     * Number of images: 800 (**Training**: 766. **Testing**: 34.)
     * Descriptions per image: 9 Captions
+
+* <span id="head-face15m"> **FaceCaption-15M** </span>
+
+  FaceCaption-15M is the largest facial image-caption dataset.
+  * **Detailed information (Images & Text Descriptions):**  ⇒ [[Paper](https://arxiv.org/abs/2407.08515)] [[Website](https://huggingface.co/datasets/OpenFace-CQUPT/FaceCaption-15M)] 
+    * Number of images-text pair: over 15 million 
 
 * <span id="head-others"> **Others** </span>
     * (arXiv preprint 2023) **AGIQA-3K** [[Paper](https://arxiv.org/abs/2306.04717)] [[Dataset](https://github.com/lcysyzxdxc/AGIQA-3k-Database/tree/main)]
