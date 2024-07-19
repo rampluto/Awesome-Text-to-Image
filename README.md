@@ -104,6 +104,7 @@ A number of studies have been conducted on text-to-image synthesis techniques th
 ## <span id="head5"> *Paper With Code* </span>
 
 * <span id="head-t2f"> **Text to Face👨🏻🧒👧🏼🧓🏽**  </span> 
+    * (arXiv preprint 2024) [💬 Dataset] **15M Multimodal Facial Image-Text Dataset**, Dawei Dai et al. [[Paper](https://arxiv.org/abs/2407.08515)] 
     * (arXiv preprint 2024) [💬 3D] **Portrait3D: Text-Guided High-Quality 3D Portrait Generation Using Pyramid Representation and GANs Prior**, Yiqian Wu et al. [[Paper](https://arxiv.org/abs/2404.10394v1)] 
     * (CVPR 2024) **CosmicMan: A Text-to-Image Foundation Model for Humans**, Shikai Li et al. [[Paper](https://arxiv.org/abs/2404.01294)] [[Project](https://cosmicman-cvpr2024.github.io/)] 
     * (ICML 2024) **Fast Text-to-3D-Aware Face Generation and Manipulation via Direct Cross-modal Mapping and Geometric Regularization**, Jinlu Zhang et al. [[Paper](https://arxiv.org/abs/2403.06702)] [[Code](https://github.com/Aria-Zhangjl/E3-FaceNet)]    
