@@ -168,6 +168,7 @@ A number of studies have been conducted on text-to-image synthesis techniques th
 [<u><🎯Back to Top></u>](#head-content)
 
 * <span id="head-2024"> **2024**  </span> 
+     * (arXiv preprint 2024) **MARS: Mixture of Auto-Regressive Models for Fine-grained Text-to-image Synthesis**, Wanggui He et al. [[Paper](https://arxiv.org/abs/2407.07614)]
      * (Kuaishou) **Kolors: Effective Training of Diffusion Model for Photorealistic Text-to-Image Synthesis**, Sixian Zhang et al. [[Paper](https://github.com/Kwai-Kolors/Kolors/blob/master/imgs/Kolors_paper.pdf)] [[Code](https://github.com/Kwai-Kolors/Kolors)] [[Project](https://kwai-kolors.github.io/post/post-2/)] 
      * (CVPR 2024) [💬Human Preferences] **Learning Multi-dimensional Human Preference for Text-to-Image Generation**, Sixian Zhang et al. [[Paper](https://openaccess.thecvf.com/content/CVPR2024/papers/Zhang_Learning_Multi-Dimensional_Human_Preference_for_Text-to-Image_Generation_CVPR_2024_paper.pdf)] [[Code](https://github.com/wangbohan97/Kolors-MPS)] [[Project](https://kwai-kolors.github.io/post/post-1/)] 
      * (CVPR 2024) [💬 Text-to-layout → Text+Layout-to-Image] **Grounded Text-to-Image Synthesis with Attention Refocusing**, Quynh Phung et al. [[Paper](https://arxiv.org/abs/2306.05427)] [[Project](https://attention-refocusing.github.io/)] [[Code](https://github.com/Attention-Refocusing/attention-refocusing)] 
