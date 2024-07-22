@@ -530,6 +530,7 @@ A number of studies have been conducted on text-to-image synthesis techniques th
 [<u><🎯Back to Top></u>](#head-content)
  
    * <span id="head-t2m"> **Text → 3D/Motion/Shape/Mesh/Object...** </span> 
+       * (ACMMM 2024) [💬Text → 3D] **PlacidDreamer: Advancing Harmony in Text-to-3D Generation**, Shuo Huang et al. [[Paper](https://arxiv.org/abs/2407.13976)] [[Code](https://github.com/HansenHuang0823/PlacidDreamer)]
        * (Meta) [💬Text → 3D] **Meta 3D Gen**, Raphael Bensadoun et al. [[Paper](https://scontent-dus1-1.xx.fbcdn.net/v/t39.2365-6/449707112_509645168082163_2193712134508658234_n.pdf?_nc_cat=111&ccb=1-7&_nc_sid=3c67a6&_nc_ohc=TdfUsn5eGzgQ7kNvgEir1_g&_nc_ht=scontent-dus1-1.xx&oh=00_AYCH-Fbi8CL2l3Yc3ehAr-Itl5B6Wbo7KtXeONb8KCJ_mg&oe=668C1291)]
        * (arXiv preprint 2024) [💬Text → 3D] **Meta 3D TextureGen: Fast and Consistent Texture Generation for 3D Objects**, Raphael Bensadoun et al. [[Paper](https://arxiv.org/abs/2407.02430v1)]
        * (arXiv preprint 2024) [💬Text → 3D] **Meta 3D AssetGen: Text-to-Mesh Generation with High-Quality Geometry, Texture, and PBR Materials**, Yawar Siddiqui et al. [[Paper](https://arxiv.org/abs/2407.02445v1)] [[Project](https://assetgen.github.io/)]
