@@ -574,6 +574,7 @@ A number of studies have been conducted on text-to-image synthesis techniques th
 [<u><🎯Back to Top></u>](#head-content)
    
    * <span id="head-t2v"> **Text → Video** </span> 
+       * (arXiv preprint 2024) **VideoTetris: Towards Compositional Text-to-Video Generation**, Canyu Zhao et al. [[Paper](https://arxiv.org/abs/2406.04277)] [[Project](https://videotetris.github.io/)] [[Code](https://github.com/YangLing0818/VideoTetris)] 
        * (arXiv preprint 2024) **MovieDreamer: Hierarchical Generation for Coherent Long Visual Sequence**, Canyu Zhao et al. [[Paper](https://arxiv.org/abs/2407.16655)] [[Project](https://aim-uofa.github.io/MovieDreamer/)] [[Code](https://github.com/aim-uofa/MovieDreamer)] [[Demo Video](https://www.youtube.com/watch?v=aubRVOGrKLU)]
        * 💥💥(OpenAI 2024) **Sora** [[Homepage](https://openai.com/sora)] [[Technical Report](https://openai.com/research/video-generation-models-as-world-simulators)] [[Sora with Audio](https://x.com/elevenlabsio/status/1759240084342059260?s=20)]
        * (ICLR 2024) **ControlVideo: Training-free Controllable Text-to-Video Generation**, Yabo Zhang et al. [[Paper](https://arxiv.org/abs/2305.13077)] [[Code](https://github.com/YBYBZhang/ControlVideo)]
