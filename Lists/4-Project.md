@@ -1,9 +1,11 @@
 # <p align=center>🔮Project</p>
 
-* ⭐⭐**Luma AI**. [[Website](https://lumalabs.ai/dream-machine)] 
-    * > Dream Machine is an AI model that makes high quality, realistic videos fast from text and images. It is a highly scalable and efficient transformer model trained directly on videos making it capable of generating physically accurate, consistent and eventful shots. 
+* ⭐⭐**FLUX**. [[Website](https://fal.ai/)] [[Github](https://github.com/black-forest-labs/flux)]
+    * > The most capable generative media models, including multiple model categories: Text/Image-to-Image, Text/Image/Video-to-Video, etc.
+* ⭐**Luma AI**. [[Website](https://lumalabs.ai/dream-machine)] 
+    * > Dream Machine is an AI model that makes high-quality, realistic videos fast from text and images. It is a highly scalable and efficient transformer model trained directly on videos making it capable of generating physically accurate, consistent, and eventful shots. 
 * **Imagen 3**. [[Website](https://deepmind.google/technologies/imagen-3/)] 
-    * > Google's highest quality text-to-image model, capable of generating images with even better detail, richer lighting and fewer distracting artifacts than previous models.
+    * > Google's highest-quality text-to-image model, capable of generating images with even better detail, richer lighting and fewer distracting artifacts than previous models.
 * **Lore Machine**. [[Website](https://www.loremachine.world/login)] 
     * > An Al-collaborative story visualization system that transforms story text into multimedia.
 * ⭐**Stable Cascade**. [[Website](https://stability.ai/news/introducing-stable-cascade)] [[Github](https://github.com/Stability-AI/StableCascade)] [[Hugging Face](https://huggingface.co/stabilityai/stable-cascade)] [[Unofficial Demo](https://huggingface.co/spaces/multimodalart/stable-cascade)]
