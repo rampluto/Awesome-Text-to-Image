@@ -104,10 +104,12 @@ A number of studies have been conducted on text-to-image synthesis techniques th
 ## <span id="head5"> *Paper With Code* </span>
 
 * <span id="head-t2f"> **Text to Face👨🏻🧒👧🏼🧓🏽**  </span> 
+    * (ECCV 2024) **PreciseControl: Enhancing Text-To-Image Diffusion Models with Fine-Grained Attribute Control**, Rishubh Parihar et al. [[Paper](https://www.arxiv.org/abs/2408.05083)] [[Project](https://rishubhpar.github.io/PreciseControl.home/)] 
     * (arXiv preprint 2024) [💬 Dataset] **15M Multimodal Facial Image-Text Dataset**, Dawei Dai et al. [[Paper](https://arxiv.org/abs/2407.08515)] 
     * (arXiv preprint 2024) [💬 3D] **Portrait3D: Text-Guided High-Quality 3D Portrait Generation Using Pyramid Representation and GANs Prior**, Yiqian Wu et al. [[Paper](https://arxiv.org/abs/2404.10394v1)] 
     * (CVPR 2024) **CosmicMan: A Text-to-Image Foundation Model for Humans**, Shikai Li et al. [[Paper](https://arxiv.org/abs/2404.01294)] [[Project](https://cosmicman-cvpr2024.github.io/)] 
     * (ICML 2024) **Fast Text-to-3D-Aware Face Generation and Manipulation via Direct Cross-modal Mapping and Geometric Regularization**, Jinlu Zhang et al. [[Paper](https://arxiv.org/abs/2403.06702)] [[Code](https://github.com/Aria-Zhangjl/E3-FaceNet)]    
+    * (NeurIPS 2023) **Inserting Anybody in Diffusion Models via Celeb Basis**, Ge Yuan et al. [[Paper](https://arxiv.org/abs/2306.00926)] [[Project](https://celeb-basis.github.io/)] 
     * (IJACSA 2023) **Mukh-Oboyob: Stable Diffusion and BanglaBERT enhanced Bangla Text-to-Face Synthesis**, Aloke Kumar Saha et al. [[Paper](https://thesai.org/Publications/ViewPaper?Volume=14&Issue=11&Code=IJACSA&SerialNo=142)] [[Code](https://github.com/Codernob/Mukh-Oboyob)]
     * (SIGGRAPH 2023) [💬 3D] **DreamFace: Progressive Generation of Animatable 3D Faces under Text Guidance**, Longwen Zhang et al. [[Paper](https://arxiv.org/abs/2304.03117)] [[Project](https://sites.google.com/view/dreamface)] [[HuggingFace](https://huggingface.co/spaces/DEEMOSTECH/ChatAvatar)]
     * (CVPR 2023) [💬 3D] **High-Fidelity 3D Face Generation from Natural Language Descriptions**, Menghua Wu et al. [[Paper](https://arxiv.org/abs/2305.03302)] [[Code](https://github.com/zhuhao-nju/describe3d)] [[Project](https://mhwu2017.github.io/)]
@@ -168,6 +170,7 @@ A number of studies have been conducted on text-to-image synthesis techniques th
 [<u><🎯Back to Top></u>](#head-content)
 
 * <span id="head-2024"> **2024**  </span> 
+     * ⭐⭐(arXiv preprint 2024) **Imagen 3**, ImagenTeam-Google [[Paper](https://arxiv.org/abs/2408.07009)]
      * (arXiv preprint 2024) **MARS: Mixture of Auto-Regressive Models for Fine-grained Text-to-image Synthesis**, Wanggui He et al. [[Paper](https://arxiv.org/abs/2407.07614)]
      * (Kuaishou) **Kolors: Effective Training of Diffusion Model for Photorealistic Text-to-Image Synthesis**, Sixian Zhang et al. [[Paper](https://github.com/Kwai-Kolors/Kolors/blob/master/imgs/Kolors_paper.pdf)] [[Code](https://github.com/Kwai-Kolors/Kolors)] [[Project](https://kwai-kolors.github.io/post/post-2/)] 
      * (CVPR 2024) [💬Human Preferences] **Learning Multi-dimensional Human Preference for Text-to-Image Generation**, Sixian Zhang et al. [[Paper](https://openaccess.thecvf.com/content/CVPR2024/papers/Zhang_Learning_Multi-Dimensional_Human_Preference_for_Text-to-Image_Generation_CVPR_2024_paper.pdf)] [[Code](https://github.com/wangbohan97/Kolors-MPS)] [[Project](https://kwai-kolors.github.io/post/post-1/)] 
