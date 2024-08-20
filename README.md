@@ -361,6 +361,7 @@ A number of studies have been conducted on text-to-image synthesis techniques th
 [<u><🎯Back to Top></u>](#head-content)
 
    * <span id="head-ti2i"> **Text+Image/Video → Image/Video** </span> 
+       * (arXiv preprint 2024) [💬Style Transfer] **StyleShot: A Snapshot on Any Style**, Junyao Gao et al. [[Paper](https://arxiv.org/abs/2407.01414)] [[Project](https://github.com/open-mmlab/StyleShot)]
        * (CVPR 2024) **SmartEdit: Exploring Complex Instruction-based Image Editing with Multimodal Large Language Models**, Yuzhou Huang et al. [[Paper](https://arxiv.org/abs/2312.06739)] [[Project](https://yuzhou914.github.io/SmartEdit/)] [[Code](https://github.com/TencentARC/SmartEdit)]
        * (arXiv preprint 2024) **MM-Diff: High-Fidelity Image Personalization via Multi-Modal Condition Integration**, Zhichao Wei et al. [[Paper](https://arxiv.org/abs/2403.15059)] 
        * (CVPR 2024) **Instruct-Imagen: Image Generation with Multi-modal Instruction**, Hexiang Hu et al. [[Paper](https://arxiv.org/abs/2401.01952)] [[Project](https://instruct-imagen.github.io/)]
