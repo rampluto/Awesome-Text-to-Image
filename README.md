@@ -170,6 +170,7 @@ A number of studies have been conducted on text-to-image synthesis techniques th
 [<u><🎯Back to Top></u>](#head-content)
 
 * <span id="head-2024"> **2024**  </span> 
+     * (arXiv preprint 2024) **Data Extrapolation for Text-to-image Generation on Small Datasets**, Senmao Ye and Fei Liu [[Paper](https://arxiv.org/abs/2410.01638)]
      * ⭐⭐(arXiv preprint 2024) **Imagen 3**, ImagenTeam-Google [[Paper](https://arxiv.org/abs/2408.07009)]
      * (arXiv preprint 2024) **MARS: Mixture of Auto-Regressive Models for Fine-grained Text-to-image Synthesis**, Wanggui He et al. [[Paper](https://arxiv.org/abs/2407.07614)]
      * (Kuaishou) **Kolors: Effective Training of Diffusion Model for Photorealistic Text-to-Image Synthesis**, Sixian Zhang et al. [[Paper](https://github.com/Kwai-Kolors/Kolors/blob/master/imgs/Kolors_paper.pdf)] [[Code](https://github.com/Kwai-Kolors/Kolors)] [[Project](https://kwai-kolors.github.io/post/post-2/)] 
