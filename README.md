@@ -170,6 +170,7 @@ A number of studies have been conducted on text-to-image synthesis techniques th
 [<u><🎯Back to Top></u>](#head-content)
 
 * <span id="head-2024"> **2024**  </span> 
+     * (arXiv preprint 2024) **Flow Generator Matching**, Zemin Huang et al. [[Paper](https://arxiv.org/abs/2410.19310)]
      * (EMNLP 2024) **Kandinsky 3: Text-to-Image Synthesis for Multifunctional Generative Framework**, Vladimir Arkhipkin et al. [[Paper](https://arxiv.org/abs/2410.21061)] [[Code](https://github.com/ai-forever/Kandinsky-3)] [[Project](https://ai-forever.github.io/Kandinsky-3/)] 
      * (arXiv preprint 2024) **Data Extrapolation for Text-to-image Generation on Small Datasets**, Senmao Ye and Fei Liu [[Paper](https://arxiv.org/abs/2410.01638)]
      * ⭐⭐(arXiv preprint 2024) **Imagen 3**, ImagenTeam-Google [[Paper](https://arxiv.org/abs/2408.07009)]
