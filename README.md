@@ -490,6 +490,7 @@ A number of studies have been conducted on text-to-image synthesis techniques th
 [<u><🎯Back to Top></u>](#head-content)
        
    * <span id="head-l2i"> **Layout/Mask → Image** </span> 
+       * (arXiv preprint 2024) **CreatiLayout: Siamese Multimodal Diffusion Transformer for Creative Layout-to-Image Generation**, Hui Zhang et al. [[Paper](https://arxiv.org/abs/2412.03859)] [[Project](https://creatilayout.github.io/)] [[Code](https://github.com/HuiZhang0812/CreatiLayout)]
        * (CVPR 2024) [💬Instance information +Text→Image] **InstanceDiffusion: Instance-level Control for Image Generation**, XuDong Wang et al. [[Paper](https://arxiv.org/abs/2402.03290)] [[Project](https://people.eecs.berkeley.edu/~xdwang/projects/InstDiff/)] [[Code](https://github.com/frank-xwang/InstanceDiffusion)]
        * (arXiv preprint 2023) [💬Text→Layout→Image] **LayoutLLM-T2I: Eliciting Layout Guidance from LLM for Text-to-Image Generation**, Leigang Qu et al. [[Paper](https://arxiv.org/abs/2308.05095)]
        * (CVPR 2023) [💬Mask+Text→Image] **SceneComposer: Any-Level Semantic Image Synthesis**, Yu Zeng et al.  [[Paper](https://arxiv.org/abs/2211.11742)] [[Demo](https://forms.microsoft.com/pages/responsepage.aspx?id=Wht7-jR7h0OUrtLBeN7O4fEq8XkaWWJBhiLWWMELo2NUMjJYS0FDS0RISUVBUllMV0FRSzNCOTFTQy4u)]
