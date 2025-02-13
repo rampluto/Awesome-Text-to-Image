@@ -11,6 +11,7 @@
   * - [x] [ANNA](#head-anna)
   * - [x] [Bento800-Text](#head-bento)
   * - [x] [FaceCaption-15M](#head-face15m)
+  * - [x] [TextAtlas5M](#head-TextAtlas5M)
   * - [ ] [Others](#head-others)
 
 
@@ -108,6 +109,12 @@
   FaceCaption-15M is the largest facial image-caption dataset.
   * **Detailed information (Images & Text Descriptions):**  ⇒ [[Paper](https://arxiv.org/abs/2407.08515)] [[Website](https://huggingface.co/datasets/OpenFace-CQUPT/FaceCaption-15M)] 
     * Number of images-text pair: over 15 million 
+
+* <span id="head-TextAtlas5M"> **TextAtlas5M** </span>
+
+  TextAtlas5M focus on generating dense-text images and stands out in several key ways compared to previous text-rich datasets. 
+  * **Detailed information (Images & Text Descriptions):**  ⇒ [[Paper](https://arxiv.org/abs/2502.07870)] [[Website](https://textatlas5m.github.io/)] 
+    * Number of images-text pair: ～ 5M 
 
 * <span id="head-others"> **Others** </span>
     * (arXiv preprint 2023) **AGIQA-3K** [[Paper](https://arxiv.org/abs/2306.04717)] [[Dataset](https://github.com/lcysyzxdxc/AGIQA-3k-Database/tree/main)]
